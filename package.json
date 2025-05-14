@@ -1,7 +1,7 @@
 {
   "name": "clgfest2",
   "version": "0.1.0",
-  "homepage": "https://dsainvg.github.io/clgfest",
+  "homepage": "https://dsainvg.github.io/clgfest/",
   "private": true,
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
