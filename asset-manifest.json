@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/clgfest/static/css/main.ba03e741.css",
+    "main.js": "/clgfest/static/js/main.b984f933.js",
+    "static/media/Clgfest.jpeg": "/clgfest/static/media/Clgfest.1557c525d5d6a0871c27.jpeg",
+    "index.html": "/clgfest/index.html",
+    "main.ba03e741.css.map": "/clgfest/static/css/main.ba03e741.css.map",
+    "main.b984f933.js.map": "/clgfest/static/js/main.b984f933.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ba03e741.css",
+    "static/js/main.b984f933.js"
+  ]
+}
